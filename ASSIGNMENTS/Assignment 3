@@ -1,0 +1,4 @@
+How to create a form tag and its use?
+
+<form action = "Script URL" method = "GET|POST"></form>
+    The form element helps in generating controls on the page allowing users to enter the required information according to the type of control.
